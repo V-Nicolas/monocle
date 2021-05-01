@@ -1,0 +1,21 @@
+
+	monocle INSTALL:
+
+  * compiling:
+   $ ./configure
+   $ make
+   $ ./monocle --help
+
+  * install
+   $ su
+   # make install
+
+  * uninstall
+   $ su
+   # make uninstall
+
+  * clean install
+   $ make clean
+
+  * delete binary
+   $ make distclean
